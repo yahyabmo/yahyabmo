@@ -34,7 +34,7 @@ yahya = {
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img alt="LaTeX" src="https://img.shields.io/badge/XeLaTeX-008080?style=flat-square&logo=latex&logoColor=white"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/yahyabmo/RhymeMap"><img alt="RhymeMap: lines of a verse with their rhymes highlighted by sound" src="assets/cards/rhymemap.jpg" width="100%"></a>
+      <a href="https://github.com/yahyabmo/RhymeMap"><img alt="RhymeMapper: a verse with every rhyme group colored, and its rhyme statistics" src="assets/cards/rhymemap.jpg" width="100%"></a>
       <h3><a href="https://github.com/yahyabmo/RhymeMap">RhymeMap</a> <sub>★ 0</sub></h3>
       Rap lyrics, read by their <b>sound</b>: RhymeMap splits words into syllables, compares their phonetics and colors every rhyme, multisyllabic ones included, to show the architecture of a verse. Then it compares artists by their rhyme density and style.
       <br><br>
