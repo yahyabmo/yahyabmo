@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yahya-bel-hajjam"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yahya_Bel_Hajjam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://enseirb-matmeca.bordeaux-inp.fr/fr" ><img alt="ENSEIRB-MATMECA" src="https://img.shields.io/badge/ENSEIRB--MATMECA-Data_Science_%26_AI-6e40c9?style=for-the-badge"></a>
-  <a href="https://www.google.com/maps/place/Bordeaux/" ><img alt="Based in Bordeaux" src="https://img.shields.io/badge/Bordeaux-France-1f6feb?style=for-the-badge"></a>
+  <a href="https://enseirb-matmeca.bordeaux-inp.fr/fr" ><a href="https://enseirb-matmeca.bordeaux-inp.fr/fr"><img alt="ENSEIRB-MATMECA" src="https://img.shields.io/badge/ENSEIRB--MATMECA-Data_Science_%26_AI-6e40c9?style=for-the-badge"></a></a>
+  <a href="https://www.google.com/maps/place/Bordeaux/" ><a href="https://www.google.com/maps/place/Bordeaux"><img alt="Based in Bordeaux" src="https://img.shields.io/badge/Bordeaux-France-1f6feb?style=for-the-badge"></a></a>
 </p>
 
 ```python
