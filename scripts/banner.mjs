@@ -112,7 +112,7 @@ function svg(t) {
 <g opacity="0">
   <animate attributeName="opacity" from="0" to="1" begin="${done + 0.9}s" dur="0.6s" fill="freeze"/>
   <text x="${x0}" y="266" fill="${t.sub}" font-family="${SANS}" font-size="22">Data Science &amp; AI Engineering student · ENSEIRB-MATMECA</text>
-  <text x="${x0}" y="298" fill="${t.sub}" font-family="${SANS}" font-size="22">AI, data, full-stack web, GPU graphics, systems in C: the whole stack.</text>
+  <text x="${x0}" y="298" fill="${t.sub}" font-family="${SANS}" font-size="22">Data Analytics &amp; Machine Learning | Software Development</text>
   <text x="${x0}" y="344" fill="${t.muted}" font-family="${MONO}" font-size="15">↗ five pendulums, started 0.002 rad apart · RK4 · watch them disagree</text>
 </g>
 <circle cx="${PIVOT[0]}" cy="${PIVOT[1] + 30}" r="230" fill="url(#halo)"/>

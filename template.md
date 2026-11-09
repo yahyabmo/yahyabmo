@@ -1,8 +1,8 @@
 <!-- This file is generated every night by scripts/build.mjs from template.md: edit the template. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="print(&quot;Hello World, I'm Yahya&quot;)" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+  <img alt="print(&quot;Hello World, I'm Yahya&quot;)" src="assets/banner-light.svg?v=2" width="100%">
 </picture>
 
 <p align="center">

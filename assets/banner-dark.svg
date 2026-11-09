@@ -21,7 +21,7 @@
 <g opacity="0">
   <animate attributeName="opacity" from="0" to="1" begin="3.7s" dur="0.6s" fill="freeze"/>
   <text x="70" y="266" fill="#9198a1" font-family="-apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22">Data Science &amp; AI Engineering student · ENSEIRB-MATMECA</text>
-  <text x="70" y="298" fill="#9198a1" font-family="-apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22">AI, data, full-stack web, GPU graphics, systems in C: the whole stack.</text>
+  <text x="70" y="298" fill="#9198a1" font-family="-apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22">Data Analytics &amp; Machine Learning | Software Development</text>
   <text x="70" y="344" fill="#7d8590" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="15">↗ five pendulums, started 0.002 rad apart · RK4 · watch them disagree</text>
 </g>
 <circle cx="1010" cy="200" r="230" fill="url(#halo)"/>
