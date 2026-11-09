@@ -123,5 +123,5 @@ yahya = {
 
 <p align="center"><sub>
   This README rebuilds itself every night: a new fractal and fresh numbers, by <a href=".github/workflows/refresh.yml">a GitHub Action</a> and <a href="scripts">plain Node.js</a>.<br>
-  Last build: 2026-11-09 at 14:17 UTC
+  Last build: 2026-11-09 at 14:20 UTC
 </sub></p>
