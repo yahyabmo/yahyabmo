@@ -1,0 +1,13 @@
+{
+  "name": "yahyabmo",
+  "private": true,
+  "type": "module",
+  "description": "The README of my GitHub profile, rebuilt every night",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "banner": "node scripts/banner.mjs"
+  },
+  "dependencies": {
+    "jpeg-js": "0.4.4"
+  }
+}
