@@ -51,7 +51,7 @@ yahya = {
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/yahyabmo/the-double-pendulum"><img alt="Chaos Lab: a thousand pendulums flying apart" src="assets/cards/chaos-lab.jpg" width="100%"></a>
-      <h3><a href="https://github.com/yahyabmo/the-double-pendulum">Chaos Lab</a> <sub>★ 1</sub></h3>
+      <h3><a href="https://github.com/yahyabmo/the-double-pendulum">Chaos Lab</a> <sub>★ 2</sub></h3>
       The butterfly effect you can touch: a double pendulum simulator whose equations are <b>derived from the Lagrangian with SymPy</b> and integrated with RK4. Throw the bobs, change gravity, rewind time, or start 2,000 pendulums a ten-millionth of a radian apart.
       <br><br>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white"> <img alt="Canvas" src="https://img.shields.io/badge/Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=white"> <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
@@ -104,12 +104,12 @@ yahya = {
 
 ## Fractal of the day
 
-<img alt="Today's corner of the Mandelbrot set, magnified 69,338 times" src="assets/fractal.jpg?d=2026-11-09" width="100%">
+<img alt="Today's corner of the Mandelbrot set, magnified 7,265 times" src="assets/fractal.jpg?d=2026-11-10" width="100%">
 
 <p align="center"><sub>
-  <b>2026-11-09</b> · c = -0.7479575863 + 0.0667687431 i · magnified 69,338 times · 5,406 iterations · Orchid palette<br>
+  <b>2026-11-10</b> · c = 0.309999683 + 0.565858471 i · magnified 7,265 times · 3,530 iterations · Orchid palette<br>
   A new place on the edge of the set every night, found and rendered by this repository's GitHub Action.
-  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=-0.7479575863&im=0.0667687431&w=4.326639e-5">open this view</a>.
+  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=0.309999683&im=0.565858471&w=4.129199e-4">open this view</a>.
 </sub></p>
 
 ## By the numbers
@@ -123,5 +123,5 @@ yahya = {
 
 <p align="center"><sub>
   This README rebuilds itself every night: a new fractal and fresh numbers, by <a href=".github/workflows/refresh.yml">a GitHub Action</a> and <a href="scripts">plain Node.js</a>.<br>
-  Last build: 2026-11-09 at 14:50 UTC
+  Last build: 2026-11-10 at 13:21 UTC
 </sub></p>
