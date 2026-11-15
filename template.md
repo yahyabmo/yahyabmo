@@ -27,9 +27,9 @@ yahya = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/yahyabmo/CV-builder-pro"><img alt="CV Builder Pro: the editor, with the live PDF preview" src="assets/cards/cv-builder-pro.jpg" width="100%"></a>
+      <a href="https://github.com/yahyabmo/CV-builder-pro"><img alt="CV Builder Pro: the editor, with the live PDF preview" src="assets/cards/cv-builder-pro-1-0.jpg" width="100%"></a>
       <h3><a href="https://github.com/yahyabmo/CV-builder-pro">CV Builder Pro</a> <sub>★ {{stars:cv-builder-pro}}</sub></h3>
-      A local tool that writes a LaTeX CV <b>targeted at each job offer</b>: a visual editor with live PDF preview, import of an existing PDF CV, an ATS keyword score, cover letters and application tracking. Runs with a local LLM (Ollama) or Gemini.
+      A LaTeX CV <b>targeted at each job offer</b>, online as an invite-only beta at <a href="https://cv.yahyabmo.com">cv.yahyabmo.com</a> or on your own machine: a visual editor with live PDF preview, import of a PDF CV that keeps its look, an ATS keyword score, cover letters and application tracking. Runs with Gemini, Mistral or a local LLM (Ollama).
       <br><br>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img alt="LaTeX" src="https://img.shields.io/badge/XeLaTeX-008080?style=flat-square&logo=latex&logoColor=white"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
     </td>
