@@ -104,12 +104,12 @@ yahya = {
 
 ## Fractal of the day
 
-<img alt="Today's corner of the Mandelbrot set, magnified 21,123 times" src="assets/fractal.jpg?d=2026-11-16" width="100%">
+<img alt="Today's corner of the Mandelbrot set, magnified 87,108 times" src="assets/fractal.jpg?d=2026-11-17" width="100%">
 
 <p align="center"><sub>
-  <b>2026-11-16</b> · c = -0.242146779 + 0.639567595 i · magnified 21,123 times · 4,365 iterations · Orchid palette<br>
+  <b>2026-11-17</b> · c = -0.6829930705 + 0.3270178822 i · magnified 87,108 times · 5,619 iterations · Glacier palette<br>
   A new place on the edge of the set every night, found and rendered by this repository's GitHub Action.
-  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=-0.242146779&im=0.639567595&w=1.420254e-4">open this view</a>.
+  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=-0.6829930705&im=0.3270178822&w=3.444010e-5">open this view</a>.
 </sub></p>
 
 ## By the numbers
@@ -123,5 +123,5 @@ yahya = {
 
 <p align="center"><sub>
   This README rebuilds itself every night: a new fractal and fresh numbers, by <a href=".github/workflows/refresh.yml">a GitHub Action</a> and <a href="scripts">plain Node.js</a>.<br>
-  Last build: 2026-11-16 at 13:26 UTC
+  Last build: 2026-11-17 at 14:12 UTC
 </sub></p>
