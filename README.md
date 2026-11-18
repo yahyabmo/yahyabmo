@@ -28,7 +28,7 @@ yahya = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/yahyabmo/CV-builder-pro"><img alt="CV Builder Pro: the editor, with the live PDF preview" src="assets/cards/cv-builder-pro-1-0.jpg" width="100%"></a>
-      <h3><a href="https://github.com/yahyabmo/CV-builder-pro">CV Builder Pro</a> <sub>★ 0</sub></h3>
+      <h3><a href="https://github.com/yahyabmo/CV-builder-pro">CV Builder Pro</a> <sub>★ 3</sub></h3>
       A LaTeX CV <b>targeted at each job offer</b>, online as an invite-only beta at <a href="https://cv.yahyabmo.com">cv.yahyabmo.com</a> or on your own machine: a visual editor with live PDF preview, import of a PDF CV that keeps its look, an ATS keyword score, cover letters and application tracking. Runs with Gemini, Mistral or a local LLM (Ollama).
       <br><br>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img alt="LaTeX" src="https://img.shields.io/badge/XeLaTeX-008080?style=flat-square&logo=latex&logoColor=white"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
@@ -44,14 +44,14 @@ yahya = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/yahyabmo/the-mandelbrot-set"><img alt="Mandelbrot Odyssey: chapter III of the story, with the Julia set lens" src="assets/cards/mandelbrot-odyssey.jpg" width="100%"></a>
-      <h3><a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a> <sub>★ 1</sub></h3>
+      <h3><a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a> <sub>★ 4</sub></h3>
       A real-time explorer of the Mandelbrot set that zooms smoothly <b>down to 10<sup>300</sup></b>, past the limits of floating point: perturbation theory on the GPU, a reference orbit of up to 1,030 bits, an endless dive, an atlas of Julia sets, and films exported in the browser.
       <br><br>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="WebGL2" src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white"> <img alt="GLSL" src="https://img.shields.io/badge/GLSL-5686A5?style=flat-square&logo=opengl&logoColor=white"> <img alt="Web Workers" src="https://img.shields.io/badge/Web_Workers-333333?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/yahyabmo/the-double-pendulum"><img alt="Chaos Lab: a thousand pendulums flying apart" src="assets/cards/chaos-lab.jpg" width="100%"></a>
-      <h3><a href="https://github.com/yahyabmo/the-double-pendulum">Chaos Lab</a> <sub>★ 2</sub></h3>
+      <h3><a href="https://github.com/yahyabmo/the-double-pendulum">Chaos Lab</a> <sub>★ 5</sub></h3>
       The butterfly effect you can touch: a double pendulum simulator whose equations are <b>derived from the Lagrangian with SymPy</b> and integrated with RK4. Throw the bobs, change gravity, rewind time, or start 2,000 pendulums a ten-millionth of a radian apart.
       <br><br>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white"> <img alt="Canvas" src="https://img.shields.io/badge/Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=white"> <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
@@ -104,12 +104,12 @@ yahya = {
 
 ## Fractal of the day
 
-<img alt="Today's corner of the Mandelbrot set, magnified 87,108 times" src="assets/fractal.jpg?d=2026-11-17" width="100%">
+<img alt="Today's corner of the Mandelbrot set, magnified 2,541 times" src="assets/fractal.jpg?d=2026-11-18" width="100%">
 
 <p align="center"><sub>
-  <b>2026-11-17</b> · c = -0.6829930705 + 0.3270178822 i · magnified 87,108 times · 5,619 iterations · Glacier palette<br>
+  <b>2026-11-18</b> · c = 0.30540299 + 0.43387732 i · magnified 2,541 times · 2,801 iterations · Orchid palette<br>
   A new place on the edge of the set every night, found and rendered by this repository's GitHub Action.
-  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=-0.6829930705&im=0.3270178822&w=3.444010e-5">open this view</a>.
+  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=0.30540299&im=0.43387732&w=1.180629e-3">open this view</a>.
 </sub></p>
 
 ## By the numbers
@@ -123,5 +123,5 @@ yahya = {
 
 <p align="center"><sub>
   This README rebuilds itself every night: a new fractal and fresh numbers, by <a href=".github/workflows/refresh.yml">a GitHub Action</a> and <a href="scripts">plain Node.js</a>.<br>
-  Last build: 2026-11-17 at 14:12 UTC
+  Last build: 2026-11-18 at 13:43 UTC
 </sub></p>
