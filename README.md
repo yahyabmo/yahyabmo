@@ -28,7 +28,7 @@ yahya = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/yahyabmo/CV-builder-pro"><img alt="CV Builder Pro: the editor, with the live PDF preview" src="assets/cards/cv-builder-pro-1-0.jpg" width="100%"></a>
-      <h3><a href="https://github.com/yahyabmo/CV-builder-pro">CV Builder Pro</a> <sub>★ 3</sub></h3>
+      <h3><a href="https://github.com/yahyabmo/CV-builder-pro">CV Builder Pro</a> <sub>★ 0</sub></h3>
       A LaTeX CV <b>targeted at each job offer</b>, online as an invite-only beta at <a href="https://cv.yahyabmo.com">cv.yahyabmo.com</a> or on your own machine: a visual editor with live PDF preview, import of a PDF CV that keeps its look, an ATS keyword score, cover letters and application tracking. Runs with Gemini, Mistral or a local LLM (Ollama).
       <br><br>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img alt="LaTeX" src="https://img.shields.io/badge/XeLaTeX-008080?style=flat-square&logo=latex&logoColor=white"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
@@ -104,12 +104,12 @@ yahya = {
 
 ## Fractal of the day
 
-<img alt="Today's corner of the Mandelbrot set, magnified 55,242 times" src="assets/fractal.jpg?d=2026-11-20" width="100%">
+<img alt="Today's corner of the Mandelbrot set, magnified 132,835 times" src="assets/fractal.jpg?d=2026-11-21" width="100%">
 
 <p align="center"><sub>
-  <b>2026-11-20</b> · c = -1.1639398979 + 0.2498149537 i · magnified 55,242 times · 5,198 iterations · Aurora palette<br>
+  <b>2026-11-21</b> · c = -0.7184842511 + 0.2413876587 i · magnified 132,835 times · 6,000 iterations · Aurora palette<br>
   A new place on the edge of the set every night, found and rendered by this repository's GitHub Action.
-  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=-1.1639398979&im=0.2498149537&w=5.430698e-5">open this view</a>.
+  Explore it in <a href="https://github.com/yahyabmo/the-mandelbrot-set">Mandelbrot Odyssey</a>: once installed, <a href="http://localhost:5191/#re=-0.7184842511&im=0.2413876587&w=2.258438e-5">open this view</a>.
 </sub></p>
 
 ## By the numbers
@@ -123,5 +123,5 @@ yahya = {
 
 <p align="center"><sub>
   This README rebuilds itself every night: a new fractal and fresh numbers, by <a href=".github/workflows/refresh.yml">a GitHub Action</a> and <a href="scripts">plain Node.js</a>.<br>
-  Last build: 2026-11-20 at 13:54 UTC
+  Last build: 2026-11-21 at 13:18 UTC
 </sub></p>
